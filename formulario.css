@@ -1,0 +1,24 @@
+button{
+	background-color: #1d9cf2;
+	color: #fff;
+	padding: 0.5rem 1rem;
+	font-family: corbel;
+	border-width:thin;
+	border-radius: 10px 10px 10px 10px;
+	margin
+}
+body{
+	font-family: borbel;
+	border: 1px solid #000;
+	margin: 75px;
+}
+p{
+	border: gray 0;
+	margin: 20px;
+}
+input{
+	margin: 1px 20px;
+}
+.fecha{
+	
+}
