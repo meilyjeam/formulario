@@ -19,6 +19,8 @@ p{
 input{
 	margin: 1px 20px;
 }
-.fecha{
-	
+.fecha input{
+	background-color: #ddd;
+	border: 1px solid #000;
+	margin: 20px;  
 }
